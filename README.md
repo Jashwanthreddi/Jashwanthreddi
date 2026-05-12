@@ -196,7 +196,3 @@ me.say_hi()
 </div>
 
 ---
-
-## 📌 Resume Reference
-
-This README was generated based on the technical details, projects, certifications, and experience from your resume. fileciteturn0file0L1-L1
